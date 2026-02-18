@@ -1,0 +1,6 @@
+streamlit
+pyvis
+SpeechRecognition
+pyaudio
+resemblyzer
+numpy
